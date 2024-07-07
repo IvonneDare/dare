@@ -38,6 +38,7 @@ let vegetales = fruta
 vegetales.naranja = '🥦' 
 console.log(frutas)
 
+//Se crea una nueva direccion en memoria 
 let ropa =
 {
     blusa: '👚'
