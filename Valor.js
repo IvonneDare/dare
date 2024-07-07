@@ -1,5 +1,5 @@
 
-// tipos de datos primitivos
+// tipos de datos primitivos, paso por valor 
 let x = 1 
 let y = 'hola' 
 let z = null 
@@ -9,4 +9,16 @@ let b = y
 let c = z 
 
 console.log(a,b,c,x,y,z)
+
+a = 12 
+b =  'platzi'
+c = undefined 
+
+//datos complejos, creacion de objetos  
+let fruta = ['manzana']
+// agregar un valor a un arreglo 
+fruta.push('Pera')
+console.log(fruta)
+
+
 
