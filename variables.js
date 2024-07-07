@@ -1,3 +1,6 @@
+let caja = 'woody'
+console.log(caja)
+
 let perro = 'Pelusa'
 console.log (perro)
 

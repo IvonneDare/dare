@@ -1,2 +1,38 @@
 tipos de variables 
 
+variables nombre o etiquetas 
+let caja = 'Box'
+declaracion =  asignacion
+
+Nombre decriptivo, evitar ambiguedades 
+
+buenas practicas, la variable se declara lo mas descriptivo 
+posible
+
+No permitidas 
+
+let c = 'woody'
+let ccda= 'woody'
+let psaand= 'woody'
+let primerjugeuete='woody'
+let c, cds 
+    pse
+    
+Permitidas 
+let urdelusuario = 'https://www.google.com 
+let IDusuario = '88394905'
+
+De preferencia una variable tiene que estaestar
+debajo de otra en un codigo
+
+Dos tipo de variables 
+let -- variables , cambia con el tiempo 
+contador 
+ejemplo 
+let contador =  contador +1
+
+const -- variables constantes o fijas 
+const pi = 3.14 
+
+
+
