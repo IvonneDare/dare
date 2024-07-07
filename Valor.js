@@ -27,3 +27,22 @@ let panes = ['🥐']
 let copiadepanes = panes 
 panes.push ('🥖')
 console.log(panes ,copiadepanes)
+
+//paso por referencia con objetos, complejo 
+
+let frutas = {
+    naranja: '🍊'
+}
+let vegetales = fruta 
+
+vegetales.naranja = '🥦' 
+console.log(frutas)
+
+let ropa =
+{
+    blusa: '👚'
+}
+
+ropa.pantalo = '👖'
+console.log (ropa)
+
