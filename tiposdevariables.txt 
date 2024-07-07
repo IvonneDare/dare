@@ -34,5 +34,17 @@ let contador =  contador +1
 const -- variables constantes o fijas 
 const pi = 3.14 
 
+Tipos de Datos 
+inmutabilidad 
+mutabilidad 
 
+Tipo dinamico 
+
+Primitivos
+string -- cadena de textos 
+number -- guardan numero 
+boolean -- Verdadero o falso 
+null 
+
+Complejos 
 
