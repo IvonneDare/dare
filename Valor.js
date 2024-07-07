@@ -20,5 +20,10 @@ let fruta = ['manzana']
 fruta.push('Pera')
 console.log(fruta)
 
+//paso por referencia, se asigna directamente un 
+//valor a memoeria 
 
-
+let panes = ['🥐']
+let copiadepanes = panes 
+panes.push ('🥖')
+console.log(panes ,copiadepanes)
