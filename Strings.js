@@ -23,7 +23,15 @@ const primera = 'ME encanta '
 const segunda = 'la gente'
 const tercera = '🇲🇽'
 const pensamiento = [primera, segunda, tercera]
-console.log (pensamiento.join(''))
+console.log (pensamiento.join('🫔'))
+
+//Cuarta concadenacion 
+const hobbiet = 'Caminar'
+const hobbiet2 = 'Correr'
+const hobbiet3 = 'Salir'
+const Hobbies = 'Mis hobbies son: '.concat (hobbiet,' ', hobbiet2,' ', hobbiet3)
+console.log(Hobbies)
+
 
 
 //concadenacion 
