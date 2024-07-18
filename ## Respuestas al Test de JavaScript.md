@@ -101,8 +101,15 @@ console.log("Mi nombre es " + completeName + ", pero prefiero que me digas " + n
 ### 1️⃣ Responde las siguientes preguntas en la sección de comentarios:
 
 - ¿Qué es un condicional?
+Son la forma en la ejecutamos un bloque de codigo u otro dependiendo de alguna condicion o validacion. 
+
 - ¿Qué tipos de condicionales existen en JavaScript y cuáles son sus diferencias?
+if (else y else if), switch
+
+El condicional if (con esle y else if)  nos permite hacer validaciones completamente distintas (si asi se requiere) en cada validacion o condicion, en cambio en el switch todas las validaciones se comparan con la misma variable o condicion que definimos en el switch.
+
 - ¿Puedo combinar funciones y condicionales?
+Si, Las funciones pueden encapsular cualquier bloque de codigo incluyendo condicionales.
 
 ### 2️⃣ Replica el comportamiento del siguiente código que usa la sentencia switch utilizando if, else y else if:
 
