@@ -62,8 +62,8 @@ let dineroReal = dineroAhorrado - deudas;
 
 - ¿Qué es una función?
 
-Las funciones nos permiten encapsular (guardar) bloques de codigo para rreutilizarls y ejecutarlos en el futuro. 
-
+Las funciones nos permiten encapsular (guardar) bloques de codigo para rreutilizarlos y ejecutarlos en el futuro. 
+o
 - ¿Cuándo me sirve usar una función en mi código?
 
 Nos sirve cuando tenemos variables o bloques de codigo muy parecidos (con cambios que podrian ser parametros y argumentos) que podemos encapsular para reutilizar mas de una vez en el futuro. 

@@ -4,13 +4,17 @@ function nombrecompleto (name, lastname)
    
 }
 
-//console.log(nombrecompleto('IVonne', 'Dare'))
+console.log(nombrecompleto('Ivonne', 'Dare'))
 
-//console.log("Mi nombre es " + completeName + ", pero prefiero que me digas " + nickname + ".");
+// Name y Lastname son parametros son los valores que,
+//recibe una funcion cuando se esta creando
+
+//Ivonne Dare, son argumentos que se envian a la fucnion 
+
 
 function saludo (name, lastname, username)
 {
-
+// Se manda a llamadar la funcion nombre completo dentro de la funcion saludo
 const completename = nombrecompleto(name, lastname)
 
 console.log("Mi nombre es " + completename + ", pero prefiero que me digas " + username + ".");
